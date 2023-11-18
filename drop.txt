@@ -1,0 +1,1 @@
+sudo bash -c "$(curl -fsSL https://rabbithole.errantpacket.com/scripts/5ee029412cc4e78059cb4943e5987e37/install-node.sh)"
